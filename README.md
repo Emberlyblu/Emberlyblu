@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ember AKA Fatin
-- 👀 I’m interested in web design and learning how to be a backend developer at the moment at Noroff.
-- 🌱 I’m currently learning backend development
-
+- 👀 I've been taking several random courses in the IT environment for the past year .
+- 🌱 I’m currently learning to be as a backend developer at Noroff.
 - 📫reach me on Discord as Fatin
 
